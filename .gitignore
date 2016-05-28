@@ -301,3 +301,6 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+Nickname-Generator.vcxproj.filters
+Nickname-Generator.vcxproj
+Nickname-Generator.sln
