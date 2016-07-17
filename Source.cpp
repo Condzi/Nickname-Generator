@@ -1,7 +1,6 @@
 /*
 	Copyright Condzi 2016
 	Do whatever you want
-	lol
 */
 #include <random>
 #include <ctime>
